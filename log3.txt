@@ -1,0 +1,116 @@
+登山赛车  download successfully!
+涛涛熊极速联盟  download successfully!
+斗龙战士之星印飞车  download successfully!
+3D摩托飞车2  download successfully!
+马上踢足球  download successfully!
+绿茵传奇  download successfully!
+动物快跑  download successfully!
+3D飞速狂飙  download successfully!
+3D终极车神2  download successfully!
+篮球经理  download successfully!
+变形战车-突袭  download successfully!
+一起来飞车  download successfully!
+桌球大比拼  download successfully!
+特技飞车  download successfully!
+梦幻冠军足球  download successfully!
+致命漂移  download successfully!
+3D飞车漂移  download successfully!
+小奥终极狂飙5  download successfully!
+艾特足球  download successfully!
+街球艺术  download successfully!
+我是车神2  download successfully!
+激流快艇3  download successfully!
+城市飞车  download successfully!
+传奇赛车  download successfully!
+Traceback (most recent call last):
+  File "E:\zsm\z\huawei_software.py", line 79, in parser_apks
+    urllib.request.urlretrieve(download_url, dest)
+  File "C:\App\anaconda51\lib\urllib\request.py", line 248, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "C:\App\anaconda51\lib\urllib\request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\App\anaconda51\lib\urllib\request.py", line 532, in open
+    response = meth(req, response)
+  File "C:\App\anaconda51\lib\urllib\request.py", line 642, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\App\anaconda51\lib\urllib\request.py", line 564, in error
+    result = self._call_chain(*args)
+  File "C:\App\anaconda51\lib\urllib\request.py", line 504, in _call_chain
+    result = func(*args)
+  File "C:\App\anaconda51\lib\urllib\request.py", line 756, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "C:\App\anaconda51\lib\urllib\request.py", line 526, in open
+    response = self._open(req, data)
+  File "C:\App\anaconda51\lib\urllib\request.py", line 544, in _open
+    '_open', req)
+  File "C:\App\anaconda51\lib\urllib\request.py", line 504, in _call_chain
+    result = func(*args)
+  File "C:\App\anaconda51\lib\urllib\request.py", line 1346, in http_open
+    return self.do_open(http.client.HTTPConnection, req)
+  File "C:\App\anaconda51\lib\urllib\request.py", line 1321, in do_open
+    r = h.getresponse()
+  File "C:\App\anaconda51\lib\http\client.py", line 1331, in getresponse
+    response.begin()
+  File "C:\App\anaconda51\lib\http\client.py", line 297, in begin
+    version, status, reason = self._read_status()
+  File "C:\App\anaconda51\lib\http\client.py", line 266, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+http.client.RemoteDisconnected: Remote end closed connection without response
+全民飞车大战  download successfully!
+终极飞车挑战  download successfully!
+跑酷足球  download successfully!
+小奥终极狂飙4  download successfully!
+极品狂飙Ⅱ  download successfully!
+超速狂飙  download successfully!
+失控飞车  download successfully!
+天天篮球  download successfully!
+冲破天际线  download successfully!
+足球大师黄金一代  download successfully!
+相马大师  download successfully!
+太空飞车  download successfully!
+狂怒飞车  download successfully!
+王者NBA  download successfully!
+中超风云2  download successfully!
+飞鱼王子  download successfully!
+中超英雄  download successfully!
+豪门足球风云  download successfully!
+最强NBA  download successfully!
+汤姆猫的摩托艇  download successfully!
+小奥终极狂飙车队经理  download successfully!
+QQ飞车  download successfully!
+球王之路  download successfully!
+劲爆飞车  download successfully!
+FIFA足球世界  download successfully!
+泥塑小马大挑战  download successfully!
+哥们向前冲  download successfully!
+小米赛车  download successfully!
+疾风飞车世界  download successfully!
+狂野赛车手  download successfully!
+冠军网球  download successfully!
+NBA篮球大师  download successfully!
+街篮  download successfully!
+黑猫警长2新年版  download successfully!
+中超风云  download successfully!
+幻速赛车  download successfully!
+猪猪侠百变飞车  download successfully!
+极限挑战:车神争霸  download successfully!
+冠军足球物语2  download successfully!
+火爆极速骑行  download successfully!
+队长小翼：最强十一人  download successfully!
+斗龙战士之星印漂移  download successfully!
+小奥终极狂飙3  download successfully!
+3D全民飞车  download successfully!
+单机狂野飞车  download successfully!
+全民冠军足球  download successfully!
+全民暴力摩托2  download successfully!
+暴力摩托极速狂飚  download successfully!
+登山越野传奇  download successfully!
+3D极品赛车  download successfully!
+羽毛球高高手  download successfully!
+3D摩托飞车  download successfully!
+决战高尔夫  download successfully!
+绿茵王朝  download successfully!
+真实摩托锦标赛  download successfully!
+冠军中超OL  download successfully!
+实况:王者集结  download successfully!
+22  done!

@@ -1,0 +1,55 @@
+雷霆英雄  download successfully!
+宠物王国单机版  download successfully!
+口袋决斗  download successfully!
+刀剑乱舞-ONLINE-  download successfully!
+星辰奇缘  download successfully!
+不良人2  download successfully!
+Traceback (most recent call last):
+  File "E:\zsm\z\huawei_software.py", line 79, in parser_apks
+    urllib.request.urlretrieve(download_url, dest)
+  File "C:\App\anaconda51\lib\urllib\request.py", line 248, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "C:\App\anaconda51\lib\urllib\request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\App\anaconda51\lib\urllib\request.py", line 532, in open
+    response = meth(req, response)
+  File "C:\App\anaconda51\lib\urllib\request.py", line 642, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\App\anaconda51\lib\urllib\request.py", line 564, in error
+    result = self._call_chain(*args)
+  File "C:\App\anaconda51\lib\urllib\request.py", line 504, in _call_chain
+    result = func(*args)
+  File "C:\App\anaconda51\lib\urllib\request.py", line 756, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "C:\App\anaconda51\lib\urllib\request.py", line 526, in open
+    response = self._open(req, data)
+  File "C:\App\anaconda51\lib\urllib\request.py", line 544, in _open
+    '_open', req)
+  File "C:\App\anaconda51\lib\urllib\request.py", line 504, in _call_chain
+    result = func(*args)
+  File "C:\App\anaconda51\lib\urllib\request.py", line 1346, in http_open
+    return self.do_open(http.client.HTTPConnection, req)
+  File "C:\App\anaconda51\lib\urllib\request.py", line 1321, in do_open
+    r = h.getresponse()
+  File "C:\App\anaconda51\lib\http\client.py", line 1331, in getresponse
+    response.begin()
+  File "C:\App\anaconda51\lib\http\client.py", line 297, in begin
+    version, status, reason = self._read_status()
+  File "C:\App\anaconda51\lib\http\client.py", line 266, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+http.client.RemoteDisconnected: Remote end closed connection without response
+群英传奇-梦想三国  download successfully!
+传奇世界之裁决天下  download successfully!
+挂机吧小精灵  download successfully!
+御剑修仙  download successfully!
+濡沫江湖  download successfully!
+食之契约  download successfully!
+海蛇传奇（欢乐版）  download successfully!
+霸刀战神  download successfully!
+崩坏3  download successfully!
+奥特曼系列OL  download successfully!
+长生劫  download successfully!
+青云诀  download successfully!
+幸存者危城  download successfully!
+传奇来了  download successfully!
+20  done!

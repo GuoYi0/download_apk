@@ -1,0 +1,110 @@
+博雅中国象棋  download successfully!
+微乐斗地主  download successfully!
+博雅四川麻将  download successfully!
+谁是卧底  download successfully!
+微乐锄大地  download successfully!
+升级80分  download successfully!
+斗地主比赛  download successfully!
+真人斗地主2  download successfully!
+疯狂干瞪眼  download successfully!
+桂林字牌  download successfully!
+哈哈红中麻将  download successfully!
+欢乐真人麻将  download successfully!
+大眼保皇  download successfully!
+同城游六安麻将  download successfully!
+武汉赖子麻将  download successfully!
+Traceback (most recent call last):
+  File "E:\zsm\z\huawei_software.py", line 79, in parser_apks
+    urllib.request.urlretrieve(download_url, dest)
+  File "C:\App\anaconda51\lib\urllib\request.py", line 248, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "C:\App\anaconda51\lib\urllib\request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\App\anaconda51\lib\urllib\request.py", line 532, in open
+    response = meth(req, response)
+  File "C:\App\anaconda51\lib\urllib\request.py", line 642, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\App\anaconda51\lib\urllib\request.py", line 564, in error
+    result = self._call_chain(*args)
+  File "C:\App\anaconda51\lib\urllib\request.py", line 504, in _call_chain
+    result = func(*args)
+  File "C:\App\anaconda51\lib\urllib\request.py", line 756, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "C:\App\anaconda51\lib\urllib\request.py", line 526, in open
+    response = self._open(req, data)
+  File "C:\App\anaconda51\lib\urllib\request.py", line 544, in _open
+    '_open', req)
+  File "C:\App\anaconda51\lib\urllib\request.py", line 504, in _call_chain
+    result = func(*args)
+  File "C:\App\anaconda51\lib\urllib\request.py", line 1346, in http_open
+    return self.do_open(http.client.HTTPConnection, req)
+  File "C:\App\anaconda51\lib\urllib\request.py", line 1321, in do_open
+    r = h.getresponse()
+  File "C:\App\anaconda51\lib\http\client.py", line 1331, in getresponse
+    response.begin()
+  File "C:\App\anaconda51\lib\http\client.py", line 297, in begin
+    version, status, reason = self._read_status()
+  File "C:\App\anaconda51\lib\http\client.py", line 266, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+http.client.RemoteDisconnected: Remote end closed connection without response
+同城游四副牌升级  download successfully!
+快乐麻将  download successfully!
+微乐吉林麻将  download successfully!
+微乐安徽麻将  download successfully!
+火拼双扣  download successfully!
+超级斗地主  download successfully!
+掌上棋牌斗地主  download successfully!
+同城游四人斗地主  download successfully!
+经典斗地主  download successfully!
+四川麻将  download successfully!
+万人斗地主  download successfully!
+大眼够级  download successfully!
+微乐陕西挖坑  download successfully!
+多乐掼蛋  download successfully!
+金牌斗地主  download successfully!
+随便玩长沙麻将  download successfully!
+Traceback (most recent call last):
+  File "E:\zsm\z\huawei_software.py", line 79, in parser_apks
+    urllib.request.urlretrieve(download_url, dest)
+  File "C:\App\anaconda51\lib\urllib\request.py", line 248, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "C:\App\anaconda51\lib\urllib\request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\App\anaconda51\lib\urllib\request.py", line 532, in open
+    response = meth(req, response)
+  File "C:\App\anaconda51\lib\urllib\request.py", line 642, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\App\anaconda51\lib\urllib\request.py", line 564, in error
+    result = self._call_chain(*args)
+  File "C:\App\anaconda51\lib\urllib\request.py", line 504, in _call_chain
+    result = func(*args)
+  File "C:\App\anaconda51\lib\urllib\request.py", line 756, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "C:\App\anaconda51\lib\urllib\request.py", line 526, in open
+    response = self._open(req, data)
+  File "C:\App\anaconda51\lib\urllib\request.py", line 544, in _open
+    '_open', req)
+  File "C:\App\anaconda51\lib\urllib\request.py", line 504, in _call_chain
+    result = func(*args)
+  File "C:\App\anaconda51\lib\urllib\request.py", line 1346, in http_open
+    return self.do_open(http.client.HTTPConnection, req)
+  File "C:\App\anaconda51\lib\urllib\request.py", line 1321, in do_open
+    r = h.getresponse()
+  File "C:\App\anaconda51\lib\http\client.py", line 1331, in getresponse
+    response.begin()
+  File "C:\App\anaconda51\lib\http\client.py", line 297, in begin
+    version, status, reason = self._read_status()
+  File "C:\App\anaconda51\lib\http\client.py", line 266, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+http.client.RemoteDisconnected: Remote end closed connection without response
+同城游够级  download successfully!
+茶苑飞行棋  download successfully!
+神手麻将  download successfully!
+陕西麻将  download successfully!
+卡五星  download successfully!
+欢乐四川麻将3D版  download successfully!
+蜀山四川麻将  download successfully!
+白金岛跑得快  download successfully!
+来几局斗地主  download successfully!
+秋水斗地主  download successfully!
+21  done!
